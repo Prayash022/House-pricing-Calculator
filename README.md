@@ -21,7 +21,7 @@ To run the code, ensure you have the following:
 - Google Colab or any Python IDE (like Jupyter Notebook, VS Code)  
 - Dataset: `house-prices.csv` (placed in Google Drive)
 
-### Installation of Libraries:
+### Code:
 Run the following commands to install the required libraries:
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn
